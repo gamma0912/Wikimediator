@@ -1,0 +1,1 @@
+- Completed all of task 5, and both versions of windowedPeakLoad, including implementation, testing and specs. Finished and fixed gamma's implementation of readLocalHistory and writeDataToDisk specifically adding functionality for zeitrequests and fixing the buffered reader, and wrote tests for those methods. Fixed spacing for code.

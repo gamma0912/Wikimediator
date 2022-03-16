@@ -1,0 +1,5 @@
+- Implemented task 1 and 2, including FSFTBuffer methods, Website and BufferableWrapper classes, specs, AF, RI, thread-safety arguments, and tests
+- Implemented task 3 methods above windowedPeakLoad, specs, AF, RI, thread-safety arguments, and tests
+- Implemented structure of local file reading and writing
+- Helped brain-storm debug, and fix task 4
+- Fixed formatting for all
